@@ -1,1 +1,1 @@
-print("Hello Eyad Your A Cooy Guy!")
+print("Hello Eyad Your A Cool Guy!")
